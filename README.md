@@ -1,4 +1,4 @@
-## Ruder Finn Company website
+## Ruder Finn website
 ### This is totaly dynamic and interactive
 <hr>
 
