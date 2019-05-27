@@ -1,5 +1,5 @@
 ## Ruder Finn website
-### This is totaly dynamic and interactive
+### This is dynamic and interactive
 
 
 ### This webpage create with the help of CSS, HTML BOOTSTRAP and JQuery
